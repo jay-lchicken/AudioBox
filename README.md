@@ -26,11 +26,11 @@ To reduce static noise, I added a decoupling and a bypass capacitor to the circu
 
 | Item | Qty | Unit Cost (USD) | Total Cost (USD) |
 |------|-----|-----------------|------------------|
-| PCB + PCBA | 1 | 37.02 | 37.02 |
-| Speaker | 2 | 2.30 | 4.60 |
-| SS-5GL | 2 | 1.60 | 3.20 |
-| Seeed XIAO RP2040 | 1 | 3.71 | 3.71 |
-| **Total** |  |  | **48.53** |
+| PCB + PCBA | 1   | 37.02 | 37.02            |
+| Speaker | 1   | 2.30 | 2.30             |
+| SS-5GL | 1   | 1.60 | 1.60             |
+| Seeed XIAO RP2040 | 1   | 3.71 | 3.71             |
+| **Total** |     |  | **44.63**        |
 
 ## Future Plans
 
