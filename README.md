@@ -32,3 +32,10 @@ To reduce static noise, I added a decoupling and a bypass capacitor to the circu
 | Seeed XIAO RP2040 | 1 | 3.71 | 3.71 |
 | **Total** |  |  | **48.53** |
 
+## Future Plans
+
+I plan on creating a website once the hardware is done to talk to the RP2040, to download and install new audio
+
+This makes it a well-polished product, rather than having to open up the code just to change the audio
+
+If not for this feature, I would have just used a normal pcb audio player and no need for the rp2040
